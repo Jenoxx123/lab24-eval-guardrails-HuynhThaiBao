@@ -1,0 +1,159 @@
+question_id,question,answer,accuracy,relevance,conciseness,helpfulness,overall
+1,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # Attention (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+
+In machine learning,?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong mô hình ngôn ngữ bằng cách kết hợp thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh ngôn ngữ của mô hình. Điều này cho phép mô hình truy xuất thông tin chính xác và đáng tin cậy hơn, từ đó giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác. Bằng cách sử dụng các trọng số ""mềm"" trong quá trình chú ý, mô hình có thể xác định và tập trung vào các phần quan trọng của dữ liệu, cải thiện độ chính xác của đầu ra.",2,2,4,4,3.0
+2,"Tóm tắt ý chính của đoạn sau: # Neural network (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+
+In machine?","Neural networks (NNs), or artificial neural networks (ANNs), are computational models inspired by biological neural networks. They consist of interconnected units called artificial neurons, which simulate brain neurons, connected by edges that represent synapses. Recent advancements focus on neuron models that closely mimic biological counterparts to enhance performance.",2,2,5,4,3.25
+3,"Tóm tắt ý chính của đoạn sau: # Attention (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+
+In machine learning,?","In machine learning, attention is a technique that assesses the significance of each element in a sequence relative to others, particularly in natural language processing. It assigns ""soft"" weights to words in a sentence, which vary with each input step, as opposed to ""hard"" weights that are fixed during training. Attention encodes token embeddings across sequences that can range from tens to millions of tokens.",2,2,5,4,3.25
+4,"Tóm tắt ý chính của đoạn sau: # Quantum machine learning
+
+Source: https://en.wikipedia.org/wiki/Quantum_machine_learning
+
+Quantum machine learning (QM?","Quantum machine learning (QML) is the exploration of quantum algorithms designed for machine learning tasks, often enhancing classical data analysis. QML utilizes qubits and quantum operations to improve the efficiency of classical algorithms, with hybrid methods combining classical and quantum processing for complex tasks.",2,2,5,4,3.25
+5,"Tóm tắt ý chính của đoạn sau: # Quantum machine learning
+
+Source: https://en.wikipedia.org/wiki/Quantum_machine_learning
+
+Quantum machine learning (QM?","Quantum machine learning (QML) is the exploration of quantum algorithms designed for machine learning tasks, particularly those analyzing classical data. It aims to enhance the efficiency of classical machine learning algorithms by utilizing qubits and quantum operations. Hybrid QML methods combine classical and quantum processing, allowing complex computations to be performed more rapidly on quantum devices.",2,2,5,4,3.25
+6,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) Artificial Intelligence
+
+Source: https://en.wikipedia.org/wiki/A.I._Artificial_Intelligenc ; (2) # Artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+","Artificial Intelligence (AI) is a field of computer science focused on enabling machines to perform tasks that typically require human intelligence, such as learning and decision-making. Machine Learning (ML), a subfield of AI, involves algorithms that allow computers to learn from data without explicit programming.",2,2,5,4,3.25
+7,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # History of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+
+The hist?","Chiến lược RAG (Retrieve and Generate) giúp giảm hallucination bằng cách kết hợp việc truy xuất thông tin từ nguồn dữ liệu đáng tin cậy với khả năng sinh ra nội dung. Khi mô hình truy xuất thông tin từ các nguồn như lịch sử trí tuệ nhân tạo hoặc máy học, nó có thể cung cấp thông tin chính xác và có cơ sở, từ đó giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác. Việc này giúp đảm bảo rằng nội dung được tạo ra có tính xác thực cao hơn.",2,2,5,4,3.25
+8,"Tóm tắt ý chính của đoạn sau: Artificial Intelligence
+
+Source: https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence
+
+A.I?","Artificial Intelligence (AI) is a broad field within computer science that encompasses various subfields, including machine learning (ML). ML focuses on developing algorithms that enable computers to learn from data and make predictions without explicit programming. It evolved from pattern recognition and computational learning theory, with significant advancements in deep learning enhancing performance through neural networks. AI also includes a glossary of terms relevant to its study and related fields.",2,2,4,4,3.0
+9,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: Artificial Intelligence
+
+Source: https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence
+
+A.I?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong AI bằng cách kết hợp khả năng truy xuất thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh nội dung của mô hình. Điều này cho phép mô hình xác thực thông tin và cung cấp câu trả lời chính xác hơn, giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác. Bằng cách này, RAG cải thiện độ tin cậy và tính chính xác của các phản hồi từ AI.",2,2,5,4,3.25
+10,"Tóm tắt ý chính của đoạn sau: # Glossary of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
+
+This g?","The glossary of artificial intelligence provides definitions of terms and concepts related to AI and its subfields. It includes references to related glossaries in computer science, robotics, machine vision, and logic. Machine learning, a key area within AI, focuses on developing algorithms that learn from data and make predictions without explicit programming, with deep learning significantly enhancing performance.",2,2,5,4,3.25
+11,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # Machine learning
+
+Source: https://en.wikipedia.org/wiki/Machine_learning
+
+Machine learning (ML) is a field of study in?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong mô hình máy học bằng cách kết hợp khả năng truy xuất thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh nội dung của mô hình. Điều này cho phép mô hình tạo ra câu trả lời dựa trên thông tin chính xác và có sẵn, thay vì chỉ dựa vào kiến thức đã được huấn luyện, từ đó giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác.",2,2,5,4,3.25
+12,"Tóm tắt ý chính của đoạn sau: # Machine learning
+
+Source: https://en.wikipedia.org/wiki/Machine_learning
+
+Machine learning (ML) is a field of study in?","Machine learning (ML) is a subfield of artificial intelligence within computer science that focuses on developing algorithms capable of learning from data and making predictions without explicit programming. It evolved from pattern recognition and computational learning theory, with foundational elements in statistics and mathematical optimization. Advances in deep learning, particularly neural networks, have significantly enhanced ML performance. Data mining is a related area that emphasizes exploratory data analysis.",2,2,4,4,3.0
+13,"Tóm tắt ý chính của đoạn sau: # History of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+
+The hist?","The history of artificial intelligence (AI) traces back to ancient myths about intelligent beings and evolved through the study of logic, culminating in the creation of programmable digital computers in the 1940s. This technological advancement sparked discussions about developing electronic brains, leading to the establishment of AI research.",2,2,5,4,3.25
+14,"Tóm tắt ý chính của đoạn sau: Artificial Intelligence
+
+Source: https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence
+
+A.I?","Artificial Intelligence (AI) is a broad field within computer science that encompasses various subfields, including machine learning (ML). ML focuses on developing algorithms that enable computers to learn from data and make predictions without explicit programming. It evolved from pattern recognition and computational learning theory, with significant advancements in deep learning enhancing its capabilities. AI also includes a range of terms and concepts relevant to its study and application.",2,2,5,4,3.25
+15,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # Artificial general intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_genera ; (2) # Attention (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Attention_(machine_l","Artificial general intelligence (AGI) aims to create machines that can understand, learn, and apply knowledge across a wide range of tasks, similar to human intelligence. Attention mechanisms in machine learning enhance the performance of models, particularly in processing sequential data, which can be crucial for developing AGI by enabling more effective learning and understanding of complex information.",2,2,5,4,3.25
+16,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # History of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/History_of_art ; (2) # Artificial general intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_genera","Artificial intelligence (AI) encompasses various fields, including machine learning (ML), which focuses on algorithms that enable systems to learn from data without explicit programming. The evolution of AI has led to the pursuit of artificial general intelligence (AGI), aiming for machines that can perform any intellectual task a human can.",2,2,5,4,3.25
+17,"Tóm tắt ý chính của đoạn sau: # Outline of machine learning
+
+Source: https://en.wikipedia.org/wiki/Outline_of_machine_learning
+
+The following outline ?","Machine learning (ML) is a subfield of artificial intelligence focused on algorithms that enable computers to learn from data without explicit programming. It evolved from pattern recognition and computational learning theory, with Arthur Samuel defining it in 1959. ML involves constructing models from training data to make predictions.",2,2,5,4,3.25
+18,"Tóm tắt ý chính của đoạn sau: # Glossary of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
+
+This g?","The glossary of artificial intelligence provides definitions of terms and concepts related to AI and its subfields. It includes references to related glossaries in computer science, robotics, machine vision, and logic. Machine learning, a key area within AI, focuses on developing algorithms that learn from data and make predictions without explicit programming, with deep learning significantly enhancing performance.",2,2,5,4,3.25
+19,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # History of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+
+The hist?","Chiến lược RAG (Retrieve and Generate) giúp giảm hallucination bằng cách kết hợp việc truy xuất thông tin từ nguồn dữ liệu đáng tin cậy với khả năng sinh nội dung. Khi mô hình có thể truy xuất thông tin cụ thể từ các nguồn như Wikipedia, nó có thể cung cấp thông tin chính xác hơn và giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không có thật. Việc này đảm bảo rằng các câu trả lời được hỗ trợ bởi dữ liệu thực tế, từ đó tăng cường độ tin cậy và tính chính xác của thông tin.",2,2,5,4,3.25
+20,"Tóm tắt ý chính của đoạn sau: # Artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+Artificial intelligence (AI) i?","Artificial intelligence (AI) refers to the ability of computational systems to perform tasks that typically require human intelligence, such as learning, reasoning, and decision-making. It encompasses research and methods in engineering, mathematics, and computer science aimed at enabling machines to perceive their environment and act to achieve specific goals. Notable applications of AI include web search engines, chatbots, virtual assistants, and autonomous vehicles.",2,2,5,4,3.25
+21,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # Artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+ ; (2) # Machine learning
+
+Source: https://en.wikipedia.org/wiki/Machine_learning
+
+Machine learni","Machine learning (ML) is a subfield of artificial intelligence (AI) that enables computers to learn from data and make predictions without explicit programming, utilizing algorithms and models inspired by biological neural networks.",2,2,5,4,3.25
+22,"Tóm tắt ý chính của đoạn sau: # Neural network (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+
+In machine?","Neural networks (NNs), or artificial neural networks (ANNs), are computational models inspired by biological neural networks. They consist of interconnected units called artificial neurons, which simulate brain neurons, connected by edges representing synapses. Recent advancements focus on neuron models that closely mimic biological counterparts to enhance performance.",2,2,5,4,3.25
+23,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: Artificial Intelligence
+
+Source: https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence
+
+A.I?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong AI bằng cách kết hợp khả năng truy xuất thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh nội dung của mô hình. Điều này cho phép mô hình xác thực thông tin và cung cấp câu trả lời chính xác hơn, giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không có thật. Bằng cách dựa vào dữ liệu thực tế, RAG cải thiện độ tin cậy và tính chính xác của các phản hồi.",2,2,5,4,3.25
+24,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # Quantum machine learning
+
+Source: https://en.wikipedia.org/wiki/Quantum_machine_learning ; (2) # Machine learning
+
+Source: https://en.wikipedia.org/wiki/Machine_learning
+
+Machine learni","Quantum machine learning (QML) combines quantum algorithms with machine learning techniques to enhance the efficiency of classical algorithms, leveraging qubits for improved performance. This integration aims to tackle complex data analysis tasks more effectively than traditional machine learning methods.",2,2,5,4,3.25
+25,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # History of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/History_of_art ; (2) # Outline of machine learning
+
+Source: https://en.wikipedia.org/wiki/Outline_of_machine_le","Machine learning (ML), a subfield of artificial intelligence (AI), emerged from the study of pattern recognition and computational learning theory, evolving significantly since its inception in the mid-20th century. The development of programmable digital computers laid the groundwork for AI, leading to the creation of algorithms that enable machines to learn from data without explicit programming.",2,2,5,4,3.25
+26,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # Neural network (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+
+In machine?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong mô hình ngôn ngữ bằng cách kết hợp khả năng truy xuất thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh ngôn ngữ của mô hình. Điều này cho phép mô hình lấy thông tin chính xác và có liên quan từ cơ sở dữ liệu, thay vì chỉ dựa vào kiến thức đã được huấn luyện, từ đó giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác.",2,2,5,4,3.25
+27,"Vì sao chiến lược RAG trong đoạn này giúp giảm hallucination: # Artificial general intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+
+Artificial gen?","Chiến lược RAG (Retrieval-Augmented Generation) giúp giảm hallucination trong AGI bằng cách kết hợp khả năng truy xuất thông tin từ nguồn dữ liệu bên ngoài với khả năng sinh nội dung. Điều này cho phép hệ thống xác thực thông tin và cung cấp câu trả lời chính xác hơn, thay vì chỉ dựa vào kiến thức đã được huấn luyện, từ đó giảm thiểu khả năng tạo ra thông tin sai lệch hoặc không chính xác.",2,2,5,4,3.25
+28,"Tóm tắt ý chính của đoạn sau: # Artificial general intelligence
+
+Source: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+
+Artificial gen?","Artificial general intelligence (AGI) is a theoretical form of AI that can perform any cognitive task at or above human levels. It differs from artificial narrow intelligence (ANI), which is limited to specific tasks. AGI can generalize knowledge, transfer skills, and solve new problems without needing task-specific programming. The development of AGI is a goal for many technology companies.",2,2,5,4,3.25
+29,"Tóm tắt ý chính của đoạn sau: # Attention (machine learning)
+
+Source: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+
+In machine learning,?","In machine learning, attention is a technique that assesses the significance of each element in a sequence relative to others, particularly in natural language processing. It assigns ""soft"" weights to words in a sentence, which vary with each input step, as opposed to ""hard"" weights that are fixed during training. Attention encodes token embeddings across sequences that can range from tens to millions of tokens.",2,2,5,4,3.25
+30,"Kết hợp hai ý sau để đưa ra kết luận ngắn: (1) # Glossary of artificial intelligence
+
+Source: https://en.wikipedia.org/wiki/Glossary_of_a ; (2) # Quantum machine learning
+
+Source: https://en.wikipedia.org/wiki/Quantum_machine_learning","Quantum machine learning (QML) is a subfield of artificial intelligence that utilizes quantum algorithms to enhance machine learning tasks, improving the efficiency of classical algorithms by leveraging quantum processing capabilities.",2,2,5,4,3.25
